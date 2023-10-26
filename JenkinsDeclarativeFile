@@ -49,7 +49,6 @@ pipeline{
                   Pravallika B
                   ''', subject: 'Build Done!!', to: 'bpravalikaraj52@gmail.com'
                 
-                
+                }
             }
-        }//post
-} //pipeline
+        }//pipeline

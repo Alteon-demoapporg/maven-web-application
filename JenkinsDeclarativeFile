@@ -3,6 +3,9 @@ pipeline{
     tools{
         maven "maven3.6.3"
     }
+      options{
+     timestamps()
+} //options
     stages{
         stage('CheckoutStage'){
             steps{

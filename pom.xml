@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Amazon Release Repository</name>
-	      <url>http://35.175.132.67:8081/repository/amazon-release/</url>
+	      <url>http://35.175.130.144:8081/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
